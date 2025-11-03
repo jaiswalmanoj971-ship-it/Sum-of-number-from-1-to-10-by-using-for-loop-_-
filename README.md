@@ -1,0 +1,1 @@
+# Sum-of-number-from-1-to-10-by-using-for-loop-_-
